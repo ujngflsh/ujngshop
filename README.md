@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🛍️ ujngshop — Simple Web3 Store dApp
 
-# Run and deploy your AI Studio app
+A clean and minimal Web3 mini dApp built using **Next.js**, **TailwindCSS**, and **Ethers.js**.  
+Designed as a portfolio-ready project to demonstrate wallet connection and a modern Web3 UI.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/temp/4
+## 🚀 Features
 
-## Run Locally
+- 🔌 Connect Wallet (MetaMask / WalletConnect)
+- ⚡ Built with Next.js App Router
+- 🎨 TailwindCSS modern UI
+- 📦 Clean component-based structure
+- 🌐 Ready for Web3 expansion (NFT, tokens, payments)
 
-**Prerequisites:**  Node.js
+---
 
+## 📸 Screenshots
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+<p align="center">
+  <img src="./screnshoots.PNG" alt="ujngshop Screenshot" width="80%" />
+</p>
+
+---
+
+## 📂 Project Structure
+
+```
+ujngshop/
+│── app/
+│── components/
+│── public/
+│── styles/
+│── package.json
+│── README.md
+```
+
+---
+
+## 🛠️ Installation
+
+```bash
+npm install
+npm run dev
+```
+
+Go to:  
+http://localhost:3000
+
+---
+
+## 👤 Author
+
+**ujngflsh**
+
+If you like this project, give it a ⭐!
